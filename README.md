@@ -10,7 +10,7 @@ I2C-Buss for microfluidics application composed of:
 Software environment:
 - Mendel Linux operating system (Debian Linux Derivative) 
 
-![picture](https://github.com/GabStP13rr3/I2C-Buss_Microfluidics/blob/main/PCB-DesignFiles/PCB-Design.png) 
+![picture](https://github.com/GabStP13rr3/I2C-Buss_Microfluidics/blob/main/PCB-DesignFiles/MainMount.png) 
 
 
 Datacheets & Documentations:
