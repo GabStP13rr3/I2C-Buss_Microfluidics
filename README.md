@@ -10,6 +10,9 @@ I2C-Buss for microfluidics application composed of:
 Software environment:
 - Mendel Linux operating system (Debian Linux Derivative) 
 
+![picture](https://github.com/GabStP13rr3/I2C-Buss_Microfluidics/blob/main/PCB-DesignFiles/PCB-Design.png) 
+
+
 Datacheets & Documentations:
 - [PCB Design](https://gallery.autodesk.com/projects/167801/microfluidic-pump-pcb-module)
 - [SLF1300F Flow Sensor](https://github.com/GabStP13rr3/I2C-Buss_Microfluidics/blob/main/Datasheets-Doc/SLF1300F_Sensor.pdf)
@@ -20,5 +23,5 @@ Datacheets & Documentations:
 - [Coral Dev Board](https://github.com/GabStP13rr3/I2C-Buss_Microfluidics/blob/main/Datasheets-Doc/Adafruit-TCA9548A.pdf)
 - [NXP i.MX 8M SoC (Quad-core Arm Cortex-A53, plus Cortex-M4F)](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-processors/i-mx-8m-family-armcortex-a53-cortex-m4-audio-voice-video:i.MX8M?tab=Documentation_Tab)
 
-![picture]() 
+
 
