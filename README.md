@@ -10,3 +10,9 @@ I2C-Buss for microfluidics application composed of:
 Software environment:
 - Mendel Linux operating system (Debian Linux Derivative) 
 
+Documentations:
+- [PCB Design](https://gallery.autodesk.com/projects/167801/microfluidic-pump-pcb-module)
+
+
+![picture]() 
+
