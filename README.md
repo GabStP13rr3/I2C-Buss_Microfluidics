@@ -1,4 +1,4 @@
-# I2C-Buss_Microfluidics
+# I2C-Bus_Microfluidics
 
 I2C-Buss for microfluidics application composed of:
 - 4x SLF1300F flow sensors from Sensirion.
